@@ -14,7 +14,7 @@ assemblyai==0.36.0
 astra-assistants==2.2.9
 astrapy==1.5.2
 asttokens==3.0.0
-async-timeout==4.0.2
+async-timeout==3.0.1
 asyncer==0.0.8
 atlassian-python-api==3.41.18
 attrs==24.3.0
