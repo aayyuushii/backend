@@ -62,6 +62,8 @@ deprecation==2.1.0
 dill==0.3.9
 diskcache==5.6.3
 distro==1.9.0
+Django==4.2.6
+djangorestframework==3.14.0
 dnspython==2.7.0
 docker==7.1.0
 docstring_parser==0.16
@@ -126,6 +128,7 @@ grpc-google-iam-v1==0.14.0
 grpcio==1.69.0
 grpcio-health-checking==1.69.0
 grpcio-tools==1.69.0
+gTTS==2.3.2
 gunicorn==23.0.0
 h11==0.14.0
 html5lib==1.1
@@ -271,7 +274,7 @@ proto-plus==1.25.0
 protobuf==5.29.3
 psycopg==3.2.4
 psycopg-binary==3.2.4
-psycopg2-binary==2.9.10
+psycopg2-binary==2.9.6
 pure_eval==0.2.3
 py==1.11.0
 pyarrow==17.0.0
@@ -283,6 +286,7 @@ pycryptodome==3.21.0
 pydantic==2.10.5
 pydantic-settings==2.4.0
 pydantic_core==2.27.2
+pygame==2.5.0
 Pygments==2.19.1
 PyJWT==2.10.1
 pylance==0.22.0
